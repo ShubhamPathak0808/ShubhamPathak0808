@@ -1,5 +1,5 @@
 
-<img src="https://media1.giphy.com/media/7b8jdNUoFBdcoILjjv/200w.webp?cid=ecf05e479jbeefhl942aueqbjox4wnd3rk5a0xa67wc2rre3&ep=v1_gifs_related&rid=200w.webp&ct=g" width="2000" height="200" alt="MasterHead">
+<img src="https://media0.giphy.com/media/doXBzUFJRxpaUbuaqz/200w.webp?cid=ecf05e47o2xcjk4qk1zhhuhmwewlgusfziltfabthdn3kutw&ep=v1_gifs_related&rid=200w.webp&ct=g" width="2000" height="200" alt="MasterHead">
 
 <h1 align="center">Hi 👋, I'm Shubham Pathak</h1>
 <h3 align="center">BTech @ SGSITS Indore(24) | MERN Stack Developer | I build things for Web</h3>
