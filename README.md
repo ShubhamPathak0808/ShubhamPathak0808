@@ -1,4 +1,6 @@
-[![MasterHead](https://i.postimg.cc/RVMzTGz3/github-photo.jpg)]()
+
+<img src="https://media2.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif?cid=ecf05e47plk9lgfkx2v3j9h622wg8bs7e3igv1vu5813r5d6&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="2000" height="200" alt="MasterHead">
+
 <h1 align="center">Hi 👋, I'm Shubham Pathak</h1>
 <h3 align="center">BTech @ SGSITS Indore(24) | MERN Stack Developer | I build things for Web</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
